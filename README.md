@@ -6,11 +6,22 @@
   
 </p>
 <p>
-  Hello I am a new developer specializing in machine learning.<br/>
-  We are working on it based on Python DJango.<br/><br/>
-  I enjoy squash, Baduk and computer game. <br/>
-  My goal is to develop services that will make life easier.. ✨ <br/><br/>
-</p>
+  I achieved my Masters Degree at Brunel University in MSc Integrated Product Design With Merit in December 2014. 
+  I am interested in product/industrial design, also service design, Branding. 
+  My dissertation topic is about mental health and balanced diets in childhood. 
+  Within this project, I recommended product/service design for children.
+  
+  I am currently studying Front-end, Back-end web development from 'SpartaCodingClub'.
+  <br/><br/>
+  
+  안녕하세요. 저는 코딩을 배우고 있는 디자이너입니다!
+  
+  제품디자인, 디자인기획, 패키지디자인, BI디자인 업무를 맡은 경험이 있고
+  
+  저만의 장점을 살린 브랜드를 론칭하고 지내던 중 코딩을 접하게 되었습니다.
+  
+  지금은 많이 부족하지만 코딩을 잘 하는 디자이너, 디자인을 잘하는 개발자가 되고 싶습니다💕
+  <br/><br/><br/><br/></p>
 
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Augustj88&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Augustj88&layout=compact&hide_border=true&theme=white)
   
