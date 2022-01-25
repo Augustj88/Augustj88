@@ -16,11 +16,9 @@
   
   안녕하세요. 저는 코딩을 배우고 있는 디자이너입니다!
   
-  제품디자인, 디자인기획, 패키지디자인, BI디자인 업무를 맡은 경험이 있고
+  제품디자인, 디자인기획, 패키지디자인, BI디자인 업무를 맡은 경험이 있고 현재는 애견 브랜드를 운영하고 있습니다.
   
-  저만의 장점을 살린 브랜드를 론칭하고 지내던 중 코딩을 접하게 되었습니다.
-  
-  지금은 많이 부족하지만 열심히 배워보고싶습니다💕
+  우연히 코딩을 접하게 되었고, 지금은 프론트엔드, 백엔드를 공부하고 있습니다.
   <br/><br/><br/><br/></p>
 
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Augustj88&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Augustj88&layout=compact&hide_border=true&theme=white)
