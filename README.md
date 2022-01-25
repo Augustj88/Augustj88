@@ -20,7 +20,7 @@
   
   저만의 장점을 살린 브랜드를 론칭하고 지내던 중 코딩을 접하게 되었습니다.
   
-  지금은 많이 부족하지만 코딩을 잘 이해하는 디자이너가 되고 싶습니다💕
+  지금은 많이 부족하지만 열심히 배워보고싶습니다💕
   <br/><br/><br/><br/></p>
 
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Augustj88&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Augustj88&layout=compact&hide_border=true&theme=white)
