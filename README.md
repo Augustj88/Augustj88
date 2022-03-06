@@ -36,7 +36,8 @@
   <img src="https://img.shields.io/badge/-Adobe%20Illustrator-orange">
   <img src="https://img.shields.io/badge/-Rhinoceros%203D-lightgrey">
 </p>
-<p>
+
+ <p>
   
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
