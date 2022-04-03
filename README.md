@@ -11,7 +11,7 @@
   My dissertation topic is about mental health and balanced diets in childhood. 
   Within this project, I recommended product/service design for children.
   
-  I am currently studying Front-end, Back-end web development from 'SpartaCodingClub'.
+  I am currently studying Front-end, Back-end web development
   <br/><br/>
   
   안녕하세요. 저는 코딩을 배우고 있는 디자이너입니다!
