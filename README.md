@@ -1,5 +1,5 @@
 <div align=center>
-  <p> 
+  <p>
   <a href="https://augustj.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
   <a href="mailto:yjjung1017@gmail.com" target="_blank"><img src="https://img.shields.io/badge/yjjung1017@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/eugene88/?locale=en_US" target="_blank"><img src="https://img.shields.io/badge/eugene88-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>  
